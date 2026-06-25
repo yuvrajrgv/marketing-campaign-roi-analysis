@@ -229,27 +229,3 @@ marketing-campaign-roi-analysis/
 
 ---
 
-## How to Run This
-
-1. Clone this repo
-   ```bash
-   git clone https://github.com/analytics-ak/marketing-campaign-roi-analysis.git
-   ```
-2. Install required libraries
-   ```bash
-   pip install pandas numpy matplotlib seaborn mysql-connector-python sqlalchemy openpyxl
-   ```
-3. Set up MySQL — make sure it is running and update connection credentials in the notebook
-4. Open the notebook
-   ```bash
-   jupyter notebook marketing_campaign_analysis.ipynb
-   ```
-5. Run all cells — charts generate, data loads into MySQL, Excel file exports automatically
-
----
-
-## Author
-
-**Ashish Kumar Dongre**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/analytics-ak/marketing-campaign-roi-analysis) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
